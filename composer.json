@@ -1,0 +1,21 @@
+{
+    "name": "sidorovav/yii2-test",
+    "description": "My Test Extension",
+    "type": "yii2-extension",
+    "keywords": ["yii2","test","extension"],
+    "license": "GPL-3.0+",
+    "authors": [
+        {
+            "name": "Sidorov",
+            "email": "sidorovav@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "sidorovav\\test\\": ""
+        }
+    }
+}
