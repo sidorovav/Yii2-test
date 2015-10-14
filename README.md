@@ -29,3 +29,7 @@ Once the extension is installed, simply use it in your code by  :
 
 ```php
 <?= \sidorovav\test\AutoloadExample::widget(); ?>```
+
+```
+---------
+See http://www.youtube.com/watch?v=17_ujYkVbTI
